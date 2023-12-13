@@ -1,0 +1,29 @@
+D:\All_programming\All C#_code\Program\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.exe
+D:\All_programming\All C#_code\Program\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.deps.json
+D:\All_programming\All C#_code\Program\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.runtimeconfig.json
+D:\All_programming\All C#_code\Program\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.dll
+D:\All_programming\All C#_code\Program\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.pdb
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.dll
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\refint\OperatorOverloading.dll
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.pdb
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\OperatorOverloading\obj\Debug\net7.0\ref\OperatorOverloading.dll
+C:\CSharpPractice\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.exe
+C:\CSharpPractice\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.deps.json
+C:\CSharpPractice\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.runtimeconfig.json
+C:\CSharpPractice\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.dll
+C:\CSharpPractice\OperatorOverloading\bin\Debug\net7.0\OperatorOverloading.pdb
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.AssemblyReference.cache
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfoInputs.cache
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.AssemblyInfo.cs
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.dll
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\refint\OperatorOverloading.dll
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.pdb
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\OperatorOverloading.genruntimeconfig.cache
+C:\CSharpPractice\OperatorOverloading\obj\Debug\net7.0\ref\OperatorOverloading.dll

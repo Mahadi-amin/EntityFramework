@@ -1,0 +1,14 @@
+D:\All_programming\All C#_code\Program\TuppleExample\bin\Debug\net7.0\TuppleExample.exe
+D:\All_programming\All C#_code\Program\TuppleExample\bin\Debug\net7.0\TuppleExample.deps.json
+D:\All_programming\All C#_code\Program\TuppleExample\bin\Debug\net7.0\TuppleExample.runtimeconfig.json
+D:\All_programming\All C#_code\Program\TuppleExample\bin\Debug\net7.0\TuppleExample.dll
+D:\All_programming\All C#_code\Program\TuppleExample\bin\Debug\net7.0\TuppleExample.pdb
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.dll
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\refint\TuppleExample.dll
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.pdb
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\TuppleExample.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\TuppleExample\obj\Debug\net7.0\ref\TuppleExample.dll

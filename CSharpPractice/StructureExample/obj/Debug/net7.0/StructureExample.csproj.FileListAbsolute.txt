@@ -1,0 +1,29 @@
+D:\All_programming\All C#_code\Program\StructureExample\bin\Debug\net7.0\StructureExample.exe
+D:\All_programming\All C#_code\Program\StructureExample\bin\Debug\net7.0\StructureExample.deps.json
+D:\All_programming\All C#_code\Program\StructureExample\bin\Debug\net7.0\StructureExample.runtimeconfig.json
+D:\All_programming\All C#_code\Program\StructureExample\bin\Debug\net7.0\StructureExample.dll
+D:\All_programming\All C#_code\Program\StructureExample\bin\Debug\net7.0\StructureExample.pdb
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.dll
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\refint\StructureExample.dll
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.pdb
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\StructureExample.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\StructureExample\obj\Debug\net7.0\ref\StructureExample.dll
+C:\CSharpPractice\StructureExample\bin\Debug\net7.0\StructureExample.exe
+C:\CSharpPractice\StructureExample\bin\Debug\net7.0\StructureExample.deps.json
+C:\CSharpPractice\StructureExample\bin\Debug\net7.0\StructureExample.runtimeconfig.json
+C:\CSharpPractice\StructureExample\bin\Debug\net7.0\StructureExample.dll
+C:\CSharpPractice\StructureExample\bin\Debug\net7.0\StructureExample.pdb
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.csproj.AssemblyReference.cache
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.AssemblyInfoInputs.cache
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.AssemblyInfo.cs
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.dll
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\refint\StructureExample.dll
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.pdb
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\StructureExample.genruntimeconfig.cache
+C:\CSharpPractice\StructureExample\obj\Debug\net7.0\ref\StructureExample.dll

@@ -1,0 +1,29 @@
+D:\All_programming\All C#_code\Program\ExamPractice\bin\Debug\net7.0\ExamPractice.exe
+D:\All_programming\All C#_code\Program\ExamPractice\bin\Debug\net7.0\ExamPractice.deps.json
+D:\All_programming\All C#_code\Program\ExamPractice\bin\Debug\net7.0\ExamPractice.runtimeconfig.json
+D:\All_programming\All C#_code\Program\ExamPractice\bin\Debug\net7.0\ExamPractice.dll
+D:\All_programming\All C#_code\Program\ExamPractice\bin\Debug\net7.0\ExamPractice.pdb
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.dll
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\refint\ExamPractice.dll
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.pdb
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ExamPractice.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\ExamPractice\obj\Debug\net7.0\ref\ExamPractice.dll
+C:\CSharpPractice\ExamPractice\bin\Debug\net7.0\ExamPractice.exe
+C:\CSharpPractice\ExamPractice\bin\Debug\net7.0\ExamPractice.deps.json
+C:\CSharpPractice\ExamPractice\bin\Debug\net7.0\ExamPractice.runtimeconfig.json
+C:\CSharpPractice\ExamPractice\bin\Debug\net7.0\ExamPractice.dll
+C:\CSharpPractice\ExamPractice\bin\Debug\net7.0\ExamPractice.pdb
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.csproj.AssemblyReference.cache
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.AssemblyInfoInputs.cache
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.AssemblyInfo.cs
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.dll
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\refint\ExamPractice.dll
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.pdb
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ExamPractice.genruntimeconfig.cache
+C:\CSharpPractice\ExamPractice\obj\Debug\net7.0\ref\ExamPractice.dll

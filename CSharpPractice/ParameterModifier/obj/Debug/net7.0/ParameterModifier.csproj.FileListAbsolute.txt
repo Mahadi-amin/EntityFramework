@@ -1,0 +1,29 @@
+D:\All_programming\All C#_code\Program\ParameterModifier\bin\Debug\net7.0\ParameterModifier.exe
+D:\All_programming\All C#_code\Program\ParameterModifier\bin\Debug\net7.0\ParameterModifier.deps.json
+D:\All_programming\All C#_code\Program\ParameterModifier\bin\Debug\net7.0\ParameterModifier.runtimeconfig.json
+D:\All_programming\All C#_code\Program\ParameterModifier\bin\Debug\net7.0\ParameterModifier.dll
+D:\All_programming\All C#_code\Program\ParameterModifier\bin\Debug\net7.0\ParameterModifier.pdb
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.dll
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\refint\ParameterModifier.dll
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.pdb
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ParameterModifier.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\ParameterModifier\obj\Debug\net7.0\ref\ParameterModifier.dll
+C:\CSharpPractice\ParameterModifier\bin\Debug\net7.0\ParameterModifier.exe
+C:\CSharpPractice\ParameterModifier\bin\Debug\net7.0\ParameterModifier.deps.json
+C:\CSharpPractice\ParameterModifier\bin\Debug\net7.0\ParameterModifier.runtimeconfig.json
+C:\CSharpPractice\ParameterModifier\bin\Debug\net7.0\ParameterModifier.dll
+C:\CSharpPractice\ParameterModifier\bin\Debug\net7.0\ParameterModifier.pdb
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.csproj.AssemblyReference.cache
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.AssemblyInfoInputs.cache
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.AssemblyInfo.cs
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.dll
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\refint\ParameterModifier.dll
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.pdb
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ParameterModifier.genruntimeconfig.cache
+C:\CSharpPractice\ParameterModifier\obj\Debug\net7.0\ref\ParameterModifier.dll

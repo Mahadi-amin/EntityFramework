@@ -1,0 +1,29 @@
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.exe
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.deps.json
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.runtimeconfig.json
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.dll
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.pdb
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.dll
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\refint\OOPAdvance.dll
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.pdb
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\ref\OOPAdvance.dll
+C:\CSharpPractice\Program\bin\Debug\net7.0\OOPAdvance.exe
+C:\CSharpPractice\Program\bin\Debug\net7.0\OOPAdvance.deps.json
+C:\CSharpPractice\Program\bin\Debug\net7.0\OOPAdvance.runtimeconfig.json
+C:\CSharpPractice\Program\bin\Debug\net7.0\OOPAdvance.dll
+C:\CSharpPractice\Program\bin\Debug\net7.0\OOPAdvance.pdb
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.csproj.AssemblyReference.cache
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.AssemblyInfoInputs.cache
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.AssemblyInfo.cs
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.dll
+C:\CSharpPractice\Program\obj\Debug\net7.0\refint\OOPAdvance.dll
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.pdb
+C:\CSharpPractice\Program\obj\Debug\net7.0\OOPAdvance.genruntimeconfig.cache
+C:\CSharpPractice\Program\obj\Debug\net7.0\ref\OOPAdvance.dll

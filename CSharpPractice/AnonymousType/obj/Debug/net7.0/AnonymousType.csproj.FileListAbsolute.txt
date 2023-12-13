@@ -1,0 +1,36 @@
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\AnonymousType.exe
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\AnonymousType.deps.json
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\AnonymousType.runtimeconfig.json
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\AnonymousType.dll
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\AnonymousType.pdb
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.dll
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\refint\AnonymousType.dll
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.pdb
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\ref\AnonymousType.dll
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\All_programming\All C#_code\Program\AnonymousType\bin\Debug\net7.0\SolrNet.dll
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.csproj.AssemblyReference.cache
+D:\All_programming\All C#_code\Program\AnonymousType\obj\Debug\net7.0\AnonymousType.csproj.CopyComplete
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\AnonymousType.exe
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\AnonymousType.deps.json
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\AnonymousType.runtimeconfig.json
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\AnonymousType.dll
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\AnonymousType.pdb
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\CSharpPractice\AnonymousType\bin\Debug\net7.0\SolrNet.dll
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.csproj.AssemblyReference.cache
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.AssemblyInfoInputs.cache
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.AssemblyInfo.cs
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.csproj.CopyComplete
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.dll
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\refint\AnonymousType.dll
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.pdb
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\AnonymousType.genruntimeconfig.cache
+C:\CSharpPractice\AnonymousType\obj\Debug\net7.0\ref\AnonymousType.dll
